@@ -1,0 +1,5 @@
+.main{
+  background: url('../images/background.svg') center/cover no-repeat;
+    height: 100vh;
+    font-weight: 700;
+  }
