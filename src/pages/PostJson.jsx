@@ -4,7 +4,7 @@ import Background from './Background'
 const PostJson = () => {
   return (
     <Background>
-      <div className='bg-lightBlue text-left text-white p-5 flex flex-col gap-5'>
+      <div className='w-3/4 bg-lightBlue text-left text-white p-5 flex flex-col gap-5'>
         <p>import requests</p>
         <p>import json</p>
         <p>url = "https://swaqdb.herokuapp.com/post_json"</p>
