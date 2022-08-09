@@ -6,7 +6,7 @@ import './style.css'
 const Background = ({children}) => {
   return (
     <Logobacground>
-    <div className='flex gap-5 '>
+    <div className='flex flex-col justify-center lg:flex-row gap-5 '>
       <div>
         <GetStarted />
       </div>

@@ -4,7 +4,7 @@ import Background from './Background';
 const Generate = () => {
   return (
     <Background>
-          <div className='w-3/4 bg-lightBlue text-left text-white p-5 flex flex-col gap-5'>
+          <div className='lg:w-3/4 bg-lightBlue text-left text-white p-5 flex flex-col gap-5'>
             <p>import requests</p>
             <p>url = "https://swaqdb.herokuapp.com/gen"</p>
             <p>payload = ""</p>
